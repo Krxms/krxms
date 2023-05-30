@@ -10,16 +10,16 @@
 
 Languages and tools :
 
-![js](https://github.com/Krxms/krxms/assets/110669873/2dbc6fb6-b4ec-4305-b420-2eb77afcd826 | width=100)
-![html-5](https://github.com/Krxms/krxms/assets/110669873/f2d4c8b8-4d91-4bae-ba23-812c070b4c47 | width=100)
-![css-3](https://github.com/Krxms/krxms/assets/110669873/a1919832-808f-4657-bb7c-56e8b61cc001 | width=100)
-![seal-color-aef0354c](https://github.com/Krxms/krxms/assets/110669873/5a45625b-a21b-4c3c-9c82-cace4241e892 | width=100)
-![nodejs](https://github.com/Krxms/krxms/assets/110669873/e8f8b71d-e6be-4a5e-8454-970a69c5ff63 | width=100)
-![Git-Icon-1788C](https://github.com/Krxms/krxms/assets/110669873/2da520d3-a41d-4368-8a5f-c5325ac62157 | width=100)
+<img src="https://github.com/Krxms/krxms/assets/110669873/2dbc6fb6-b4ec-4305-b420-2eb77afcd826" width="50">
+<img src="https://github.com/Krxms/krxms/assets/110669873/f2d4c8b8-4d91-4bae-ba23-812c070b4c47" width="50">
+<img src="https://github.com/Krxms/krxms/assets/110669873/a1919832-808f-4657-bb7c-56e8b61cc001" width="50">
+<img src="https://github.com/Krxms/krxms/assets/110669873/5a45625b-a21b-4c3c-9c82-cace4241e892" width="50">
+<img src="https://github.com/Krxms/krxms/assets/110669873/e8f8b71d-e6be-4a5e-8454-970a69c5ff63" width="50">
+<img src="https://github.com/Krxms/krxms/assets/110669873/2da520d3-a41d-4368-8a5f-c5325ac62157" width="50">
 <br>
-![figma](https://github.com/Krxms/krxms/assets/110669873/91223d2d-a876-42cc-be6b-a9be9004fed4)
-![photoshop](https://github.com/Krxms/krxms/assets/110669873/773e4fd3-a5b2-4516-8ea1-a1a1a2c3c57e)
-![AdobeIllustrator-LogoPNG1](https://github.com/Krxms/krxms/assets/110669873/ebdbb6d8-4409-4964-a499-1d54ce8a4017)
+<img src="https://github.com/Krxms/krxms/assets/110669873/91223d2d-a876-42cc-be6b-a9be9004fed4" width="50">
+<img src="https://github.com/Krxms/krxms/assets/110669873/773e4fd3-a5b2-4516-8ea1-a1a1a2c3c57e" width="50">
+<img src="https://github.com/Krxms/krxms/assets/110669873/ebdbb6d8-4409-4964-a499-1d54ce8a4017" width="50">
 
 <!--
 **Krxms/krxms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
