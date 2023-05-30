@@ -8,6 +8,8 @@
 
 - ✉  How to reach me : antoine.bruneau@proton.me
 
+---
+
 Languages and tools :
 
 <img src="https://github.com/Krxms/krxms/assets/110669873/2dbc6fb6-b4ec-4305-b420-2eb77afcd826" width="50">
