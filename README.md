@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there I'm Antoine !👋
 
+- 🎓 I studied Wev Development at WildCodeSchool
+
+- 💻 I'm currently working on my Portfolio : antoinebruneau.netlify.app
+
+- 🌱 I'm learning UX/UI design and begin an apprenticeship in October
+
+- ✉  How to reach me : antoine.bruneau@proton.me
 <!--
 **Krxms/krxms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
