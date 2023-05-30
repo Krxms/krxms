@@ -1,12 +1,12 @@
  <h1 align=center> 👋 Hi there I'm Antoine !</h1><br>
 
-- <h3>🎓 I studied <b>Wev Development</b> at [WildCodeSchool](https://wildcodeschool.com/)</h3>
+- 🎓 I studied <b>Wev Development</b> at [WildCodeSchool](https://wildcodeschool.com/)</h3>
 
-- <h3>🧑‍💻 I'm currently working on my <b>Portfolio</b> : [antoinebruneau.netlify.app](https://antoinebruneau.netlify.app/)</h3>
+- 🧑‍💻 I'm currently working on my <b>Portfolio</b> : [antoinebruneau.netlify.app](https://antoinebruneau.netlify.app/)
 
-- <h3>🌱 I'm begining an apprenticeship in <b>UX/UI Design in October</b> and I'm currently <b>looking for an job</b></h3>
+- 🌱 I'm begining an apprenticeship in <b>UX/UI Design in October</b> and I'm currently <b>looking for an job</b>
 
-- <h3>✉  How to reach me : antoine.bruneau@proton.me</h3>
+- ✉  How to reach me : antoine.bruneau@proton.me</h3>
 
 <br>
  <h1 align=center> 💻 Languages and tools : </h1>
@@ -17,6 +17,7 @@
 <img src="https://github.com/Krxms/krxms/assets/110669873/f2d4c8b8-4d91-4bae-ba23-812c070b4c47" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/a1919832-808f-4657-bb7c-56e8b61cc001" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/5a45625b-a21b-4c3c-9c82-cace4241e892" width="50">
+<img src="https://github.com/Krxms/krxms/assets/110669873/20611dcc-3626-4552-bac4-1c51271667e5" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/e8f8b71d-e6be-4a5e-8454-970a69c5ff63" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/2da520d3-a41d-4368-8a5f-c5325ac62157" width="50">
 <br>
