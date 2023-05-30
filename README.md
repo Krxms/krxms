@@ -7,6 +7,11 @@
 - 🌱 I'm begining an apprenticeship in <b>UX/UI Design in October</b> and I'm currently <b>looking for an job</b>
 
 - ✉  How to reach me : antoine.bruneau@proton.me
+
+:- 
+
+<br>
+
 <!--
 **Krxms/krxms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
