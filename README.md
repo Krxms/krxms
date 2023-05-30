@@ -1,6 +1,6 @@
 ### Hi there I'm Antoine !👋
 
-- 🎓 I studied Wev Development at WildCodeSchool
+- 🎓 I studied Wev Development at [WildCodeSchool](https://wildcodeschool.com/)
 
 - 💻 I'm currently working on my Portfolio : antoinebruneau.netlify.app
 
