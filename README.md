@@ -24,6 +24,7 @@
 <img src="https://github.com/Krxms/krxms/assets/110669873/91223d2d-a876-42cc-be6b-a9be9004fed4" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/773e4fd3-a5b2-4516-8ea1-a1a1a2c3c57e" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/ebdbb6d8-4409-4964-a499-1d54ce8a4017" width="50">
+<img src="https://github.com/Krxms/krxms/assets/110669873/ed656e89-07bb-44f7-b71a-b033aefd577f width="50">
   </p>
 
 <!--
