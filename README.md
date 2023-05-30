@@ -1,4 +1,4 @@
-👋 ### <b>Hi there I'm Antoine !</b>
+### <b>Hi there I'm Antoine !</b> 👋 
 
 - 🎓 I studied <b>Wev Development</b> at [WildCodeSchool](https://wildcodeschool.com/)
 
@@ -10,7 +10,7 @@
 
 ---
 
-💻 ### <b>Languages and tools : </b>
+### <b>Languages and tools : </b> 💻 
 
 <img src="https://github.com/Krxms/krxms/assets/110669873/2dbc6fb6-b4ec-4305-b420-2eb77afcd826" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/f2d4c8b8-4d91-4bae-ba23-812c070b4c47" width="50">
