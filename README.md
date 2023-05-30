@@ -1,10 +1,10 @@
-### Hi there I'm Antoine !👋
+### <b>Hi there I'm Antoine !👋</b>
 
 - 🎓 I studied <b>Wev Development</b> at [WildCodeSchool](https://wildcodeschool.com/)
 
-- 💻 I'm currently working on my <span color: blue><b>Portfolio</b></span> : [antoinebruneau.netlify.app](https://antoinebruneau.netlify.app/)
+- 💻 I'm currently working on my <b>Portfolio</b> : [antoinebruneau.netlify.app](https://antoinebruneau.netlify.app/)
 
-- 🌱 I'm begining an apprenticeship in <b>UX/UI Design in October</b> and I'm currently looking for an job
+- 🌱 I'm begining an apprenticeship in <b>UX/UI Design in October</b> and I'm currently <b>looking for an job</b>
 
 - ✉  How to reach me : antoine.bruneau@proton.me
 <!--
