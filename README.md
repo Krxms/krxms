@@ -1,5 +1,6 @@
  <h1 align=center> 👋 Hi there I'm Antoine !</h1>  
 <br>
+
 - 🎓 I studied <b>Wev Development</b> at [WildCodeSchool](https://wildcodeschool.com/)
 
 - 🧑‍💻 I'm currently working on my <b>Portfolio</b> : [antoinebruneau.netlify.app](https://antoinebruneau.netlify.app/)
