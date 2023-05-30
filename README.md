@@ -28,11 +28,10 @@
 <img src="https://github.com/Krxms/krxms/assets/110669873/ed656e89-07bb-44f7-b71a-b033aefd577f" width="50">
   </p>
   
+<!--   
   <h1 align=center> 💻 Learning to work with : </h1>
 <br>
-<img src="https://github.com/Krxms/krxms/assets/110669873/61ae374b-59ed-4d9b-a454-1487f8dda9bb" width="50">
-
-
+<img src="https://github.com/Krxms/krxms/assets/110669873/61ae374b-59ed-4d9b-a454-1487f8dda9bb" width="50"> -->
 
 
 <!--
