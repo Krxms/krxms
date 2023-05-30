@@ -2,9 +2,9 @@
 
 - 🎓 I studied Wev Development at [WildCodeSchool](https://wildcodeschool.com/)
 
-- 💻 I'm currently working on my Portfolio : antoinebruneau.netlify.app
+- 💻 I'm currently working on my Portfolio : [antoinebruneau.netlify.app](https://antoinebruneau.netlify.app/)
 
-- 🌱 I'm learning UX/UI design and begin an apprenticeship in October
+- 🌱 I'm begining an apprenticeship in <b>UX/UI Design in October</b> and I'm currently looking for an job
 
 - ✉  How to reach me : antoine.bruneau@proton.me
 <!--
