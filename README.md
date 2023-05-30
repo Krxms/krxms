@@ -19,13 +19,21 @@
 <img src="https://github.com/Krxms/krxms/assets/110669873/5a45625b-a21b-4c3c-9c82-cace4241e892" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/20611dcc-3626-4552-bac4-1c51271667e5" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/e8f8b71d-e6be-4a5e-8454-970a69c5ff63" width="50">
+<img src="https://github.com/Krxms/krxms/assets/110669873/9ff4927e-9150-4d70-a746-cf2285cd8dee" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/2da520d3-a41d-4368-8a5f-c5325ac62157" width="50">
 <br>
 <img src="https://github.com/Krxms/krxms/assets/110669873/91223d2d-a876-42cc-be6b-a9be9004fed4" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/773e4fd3-a5b2-4516-8ea1-a1a1a2c3c57e" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/ebdbb6d8-4409-4964-a499-1d54ce8a4017" width="50">
-<img src="https://github.com/Krxms/krxms/assets/110669873/ed656e89-07bb-44f7-b71a-b033aefd577f width="50">
+<img src="https://github.com/Krxms/krxms/assets/110669873/ed656e89-07bb-44f7-b71a-b033aefd577f" width="50">
   </p>
+  
+  <h1 align=center> 💻 Learning to work with : </h1>
+<br>
+<img src="https://github.com/Krxms/krxms/assets/110669873/61ae374b-59ed-4d9b-a454-1487f8dda9bb" width="50">
+
+
+
 
 <!--
 **Krxms/krxms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
