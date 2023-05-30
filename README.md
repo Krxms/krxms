@@ -1,12 +1,12 @@
  <h1 align=center> 👋 Hi there I'm Antoine !</h1><br>
 
-- 🎓 I studied <b>Wev Development</b> at [WildCodeSchool](https://wildcodeschool.com/)
+- <h3>🎓 I studied <b>Wev Development</b> at [WildCodeSchool](https://wildcodeschool.com/)</h3>
 
-- 🧑‍💻 I'm currently working on my <b>Portfolio</b> : [antoinebruneau.netlify.app](https://antoinebruneau.netlify.app/)
+- <h3>🧑‍💻 I'm currently working on my <b>Portfolio</b> : [antoinebruneau.netlify.app](https://antoinebruneau.netlify.app/)</h3>
 
-- 🌱 I'm begining an apprenticeship in <b>UX/UI Design in October</b> and I'm currently <b>looking for an job</b>
+- <h3>🌱 I'm begining an apprenticeship in <b>UX/UI Design in October</b> and I'm currently <b>looking for an job</b></h3>
 
-- ✉  How to reach me : antoine.bruneau@proton.me
+- <h3>✉  How to reach me : antoine.bruneau@proton.me</h3>
 
 <br>
  <h1 align=center> 💻 Languages and tools : </h1>
