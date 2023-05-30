@@ -1,4 +1,4 @@
- <h1 align=center> 👋 Hi there I'm Antoine !</h1>  
+ <h1 align=center> 👋 Hi there I'm Antoine !</h1><br>
 
 - 🎓 I studied <b>Wev Development</b> at [WildCodeSchool](https://wildcodeschool.com/)
 
