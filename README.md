@@ -1,4 +1,4 @@
-### <b> 👋 Hi there I'm Antoine !</b>  
+# <b> 👋 Hi there I'm Antoine !</b>  
 
 - 🎓 I studied <b>Wev Development</b> at [WildCodeSchool](https://wildcodeschool.com/)
 
@@ -9,10 +9,9 @@
 - ✉  How to reach me : antoine.bruneau@proton.me
 
 ---
-
-### <b> 💻 Languages and tools : </b> 
-
-  <p align=center>
+<p align=center>
+# <b> 💻 Languages and tools : </b> 
+<br>
 <img src="https://github.com/Krxms/krxms/assets/110669873/2dbc6fb6-b4ec-4305-b420-2eb77afcd826" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/f2d4c8b8-4d91-4bae-ba23-812c070b4c47" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/a1919832-808f-4657-bb7c-56e8b61cc001" width="50">
@@ -23,7 +22,7 @@
 <img src="https://github.com/Krxms/krxms/assets/110669873/91223d2d-a876-42cc-be6b-a9be9004fed4" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/773e4fd3-a5b2-4516-8ea1-a1a1a2c3c57e" width="50">
 <img src="https://github.com/Krxms/krxms/assets/110669873/ebdbb6d8-4409-4964-a499-1d54ce8a4017" width="50">
-  </p>
+</p>
 
 <!--
 **Krxms/krxms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
